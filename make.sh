@@ -1,5 +1,4 @@
 #!/bin/sh
-
 OUT_DIR=$1
 DEBUG=$2
 
